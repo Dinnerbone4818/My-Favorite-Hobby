@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+}
+#part1 {
+    background: linear-gradient(to bottom, #2778e3 0%, #27e39b 100%);
+    opacity: 1; 
+}
+#I_Am {
+    font-family: 'Lobster', cursive;
+    font-size: 45px;
+}
+#SammyLBL {
+    font-family:fantasy;
+    font-size: 30px;
+}
+#Desc {
+    font-family:monospace;
+    font-size: 25px;
+}
+#CodeImg {
+    width: 400px;
+    border-radius: 50%
+}
+#part2 {
+  background-color: pink;
+  opacity: 1;
+}
+.menu {
+    list-style: none;
+    font-size: 20px;
+    font-family: fantasy;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    z-index: 10px;
+}
+.links {
+    float: left;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+}
+.links:hover {
+    background-color:blue;
+}
+#Projects {
+  background-color: lime;
+}
+#Inspiration {
+  background-color: lime;
+}
+h1 {
+  font-size: 25px;
+}
